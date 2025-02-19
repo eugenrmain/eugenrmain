@@ -26,5 +26,5 @@
 🔗 LeetCode: [My LeetCode Profile](https://leetcode.com/u/Eugen17/)
 
 ### 📊 GitHub Stats
-![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenrmain&show_icons=true&theme=tokyonight)
 
