@@ -33,6 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" alt="GitHub" />
 </p>
 
+
+#### Currently Working On:
+
+Python-learning and Crypto-bots
+
 ---
 
 ### 📬 Contact Me  
