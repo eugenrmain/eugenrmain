@@ -1,11 +1,9 @@
-## I'm Eugen Ranow 👋  
+## I'm Eugen Ranow  
 
-### 🌱 About Me  
-- 🎓 Student at **Kungliga Tekniska Högskolan (KTH), Stockholm, Sweden**  
+### About Me  
+- Student at **Kungliga Tekniska Högskolan (KTH), Stockholm, Sweden**  
 
 ---
-
-### 🚀 Tech Stack  
 
 #### 🖥️ Languages  
 <p align="left">
@@ -19,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
 </p>
 
-#### ⚙️ Tools & Frameworks  
+#### Tools & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA" />
@@ -27,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50" alt="Unity" />
 </p>
 
-#### 📁 Version Control & Collaboration  
+#### Collaboration  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" alt="GitHub" />
@@ -35,19 +33,12 @@
 
 
 #### Currently Working On:
-
-Game development in C#, Unity
-
----
-
-### 📬 Contact Me  
-📧 Email: [eugen.ranow2005@gmail.com](mailto:eugen.ranow2005@gmail.com)  
-🔗 LeetCode: [My LeetCode Profile](https://leetcode.com/u/Eugen17/)  
+Game development in C#
 
 ---
 
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugenrmain&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenrmain&layout=compact&theme=radical" height="165" />
-</p>
+### Contact Me  
+Email: [eugen.ranow2005@gmail.com](mailto:eugen.ranow2005@gmail.com)  
+LeetCode: [My LeetCode Profile](https://leetcode.com/u/Eugen17/)  
+
+---
